@@ -1,2 +1,2 @@
-# baek
-git test
+교육원 Project
+[SW개발사 운영 및 물류센터 연계 쇼핑몰 통합시스템]
